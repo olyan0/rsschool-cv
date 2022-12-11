@@ -20,3 +20,14 @@ function multiply (a, b){
   return a * b
 }
 ```
+
+ ## Education
+* Prague university of Economics and Business 
+    * Information Media and Services 
+* [CIDR FAMILY](https://cidrdesign.com/)
+   * Adobe Photoshop, Adobe Illustrator 
+
+ ## Languages
+* English - B2
+* Czech - C1
+* Russian - native speaker
