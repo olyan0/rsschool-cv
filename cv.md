@@ -13,3 +13,11 @@ where I continued self-learning, examining the process of creating wine and food
 
 Three years ago I’ve become passionate about retouching. I’ve mastered different retouching techniques,
 learned to work with graphic tablet, become an advanced Photoshop user and found my first job as a retoucher.
+**************************************
+###Skills and Proficiency:
+-HTML5, CSS3
+-JavaScript Basics, Java Basics
+-SQL
+-Git, GitHub
+-VS Code, IntelliJ IDEA
+-Adobe Photoshop, Illustrator
