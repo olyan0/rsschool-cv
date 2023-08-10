@@ -1,7 +1,7 @@
 # Volha Rachkouskaya 
 ## Junior Frontend Developer
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5P6xuEKWgPiAm23DoyFbvrDdDXGgneRy9Yw&usqp=CAU)
+![](https://commonmark.org/help/images/favicon.png)
 
 
 ### Contact information
