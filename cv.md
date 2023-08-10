@@ -1,5 +1,6 @@
 # Volha Rachkouskaya 
 ## Junior Frontend Developer
+![](https://drive.google.com/drive/u/2/my-drive)
 *************************************
 ###Contact information
 Phone: +420776741997
