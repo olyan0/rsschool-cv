@@ -21,3 +21,8 @@ learned to work with graphic tablet, become an advanced Photoshop user and found
 -Git, GitHub
 -VS Code, IntelliJ IDEA
 -Adobe Photoshop, Illustrator
+*************************************
+###Languages
+-English,C1
+-Czech,C1
+-Russian,native speaker
