@@ -1,7 +1,7 @@
 # Volha Rachkouskaya 
 ## Junior Frontend Developer
 
-![](https://drive.google.com/file/d/1WqWqlauT59DK8Un26wjYspIj-juXzYoT/view?usp=drive_link)
+----
 
 ### Contact information
  * Phone: +420776741997
